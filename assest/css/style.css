@@ -1,0 +1,112 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: #24375c;
+    
+}
+.containerInfo{
+  display: flex;
+  align-items: center;
+  width: 100%;
+
+}
+
+.cupLog{
+    width: 150px;
+}
+
+h1{
+    margin: 0 auto;
+    text-transform: uppercase;
+    font-weight: 500;
+    font-size: 60px;
+}
+
+.countriesDrums{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    margin-top: 10px;
+    gap: 10px;
+}
+
+.countriesDrums > div  {
+    border: 1px solid rgba(248, 247, 247, 0.555);
+    height: 250px;
+    width: 250px;
+    margin: 0 auto;
+}
+
+.countriesDrums > div > p {
+    text-align: center;
+}
+.countriesGrupContainer{
+    width: 100%;
+  
+    
+}
+.countriesGrup{
+
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    margin-top: 10px;
+    gap: 10px;
+}
+
+.countriesGrup > div {
+    border: 1px solid rgba(248, 247, 247, 0.555);
+    height: 250px;
+    width: 250px;
+    margin: 0 auto;
+}
+
+.countriesGrup > div > p {
+    text-align: center;
+    margin-top: 7px;
+}
+
+.DrawGrup{
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.DrawGrup > button {
+    height: 25px;
+    width: 100px;
+}
+
+.flagSize{
+    width: 30px;
+    margin-top: 5px;
+}
+
+.drum{
+    display: flex;
+    flex-direction: column;
+    
+}
+.drum > p{
+   color: white;
+   font-weight: bold;
+   background-color: rgba(8, 67, 67, 0.392);
+   height: 20px;
+}
+.drum > div {
+    display: flex;
+    height: 28px;
+    margin-left:10px;
+}
+
+.drum > div > p{
+    display: flex;
+    margin-left: 10px;
+    letter-spacing: 1px;
+    text-indent: 5px;
+    font-weight: bold;
+    color: white;
+    align-items: center;
+}

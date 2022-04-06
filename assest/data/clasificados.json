@@ -1,0 +1,227 @@
+{
+  "qualified":[
+  {
+    "country": "Qatar",
+    "flag": "../mundial/assest/img/Qatar.svg",
+    "isHeadOfSeries": true,
+    "isOrganize": true,
+    "drum": 1,
+    "federetion": "Afc"
+    
+  },
+  {
+    "country": "England",
+    "flag":"../mundial/assest/img/England.svg",
+    "isHeadOfSeries": true,
+    "drum": 1,
+    "federetion": "Uefa"
+    
+  },
+  {
+    "country": "Argentina",
+    "flag":"../mundial/assest/img/ARG.png",
+    "isHeadOfSeries": true,
+    "drum": 1,
+    "federetion": "Conmebol"
+  },
+  {
+    "country": "France",
+    "flag":"../mundial/assest/img/France.svg",
+    "isHeadOfSeries": true,
+    "drum": 1,
+    "federetion": "Uefa"
+  },
+  {
+    "country": "Spain",
+    "flag":"../mundial/assest/img/Spain.png",
+    "isHeadOfSeries": true,
+    "drum": 1,
+    "federetion": "Uefa"
+  },
+  {
+    "country": "Belgium",
+    "flag":"../mundial/assest/img/Belgium.png",
+    "isHeadOfSeries": true,
+    "drum": 1,
+    "federetion": "Uefa"
+  },
+  {
+    "country": "Brazil",
+    "flag":"../mundial/assest/img/Brazil.png",
+    "isHeadOfSeries": true,
+    "drum": 1,
+    "federetion": "Conmebol"
+  },
+  {
+    "country": "Portugal",
+    "flag":"../mundial/assest/img/Portugal.png",
+    "isHeadOfSeries": true,
+    "drum": 1,
+    "federetion": "Uefa"
+  },
+  {
+    "country": "Ecuador",
+    "flag":"../mundial/assest/img/Ecuador.png",
+    "isHeadOfSeries": false,
+    "drum": 4,
+    "federetion": "Conmebol"
+  },
+  {
+    "country": "Senegal",
+    "flag":"../mundial/assest/img/Senegal.png",
+    "isHeadOfSeries": false,
+    "drum": 3
+  },
+  {
+    "country": "Netherlands",
+    "flag":"../mundial/assest/img/Netherlands.png",
+    "isHeadOfSeries": false,
+    "drum": 2,
+    "federetion": "Uefa"
+  },
+  {
+    "country": "IR Iran",
+    "flag":"../mundial/assest/img/Iran.png",
+    "isHeadOfSeries": false,
+    "drum": 3,
+    "federetion": "Afc"
+  },
+  {
+    "country": "USA",
+    "flag":"../mundial/assest/img/USA.png",
+    "isHeadOfSeries": false,
+    "drum": 2,
+    "federetion": "Concacaf"
+  },
+  {
+    "country": "Saudi Arabia",
+    "flag":"../mundial/assest/img/SaudiArabia.png",
+    "isHeadOfSeries": false,
+    "drum": 4,
+    "federetion": "Afc"
+  },
+  {
+    "country": "Mexico",
+    "flag":"../mundial/assest/img/Mexico.png",
+    "isHeadOfSeries": false,
+    "drum": 2,
+    "federetion": "Concacaf"
+  },
+  {
+    "country": "Poland",
+    "flag":"../mundial/assest/img/Poland.png",
+    "isHeadOfSeries": false,
+    "drum": 3,
+    "federetion": "Uefa"
+  },
+  {
+    "country": "Dinamark",
+    "flag":"../mundial/assest/img/Denmark.png",
+    "isHeadOfSeries": false,
+    "drum": 2,
+    "federetion": "Uefa"
+  },
+  {
+    "country": "Tunisia",
+    "flag":"../mundial/assest/img/Tunisia.png",
+    "isHeadOfSeries": false,
+    "drum": 3
+    
+  },
+  {
+    "country": "Germany",
+    "flag":"../mundial/assest/img/Germany.png",
+    "isHeadOfSeries": false,
+    "drum": 2,
+    "federetion": "Uefa"
+  },
+  {
+    "country": "Japan",
+    "flag":"../mundial/assest/img/Japan.png",
+    "isHeadOfSeries": false,
+    "drum": 3
+    
+  },
+  {
+    "country": "Canada",
+    "flag":"../mundial/assest/img/Canada.png",
+    "isHeadOfSeries": false,
+    "drum": 4,
+    "federetion": "Concacaf"
+  },
+  {
+    "country": "Morroco",
+    "flag":"../mundial/assest/img/Morocco.png",
+    "isHeadOfSeries": false,
+    "drum": 3,
+    "federetion": "Caf"
+  },
+  {
+    "country": "Croatia",
+    "flag":"../mundial/assest/img/Croatia.png",
+    "isHeadOfSeries": false,
+    "drum": 2,
+    "federetion": "Uefa"
+  },
+  {
+    "country": "Serbia",
+    "flag":"../mundial/assest/img/Serbia.png",
+    "isHeadOfSeries": false,
+    "drum": 3,
+    "federetion": "Uefa"
+  },
+  {
+    "country": "Switzerland",
+    "flag":"../mundial/assest/img/Switzerland.png",
+    "isHeadOfSeries": false,
+    "drum": 2,
+    "federetion": "Uefa"
+  },
+  {
+    "country": "Cameroon",
+    "flag":"../mundial/assest/img/Cameroon.svg",
+    "isHeadOfSeries": false,
+    "drum": 4,
+    "federetion": "Caf"
+  },
+  {
+    "country": "Ghana",
+    "flag":"../mundial/assest/img/Ghana.png",
+    "isHeadOfSeries": false,
+    "drum": 4,
+    "federetion": "Caf"
+  },
+  {
+    "country": "Uruguay",
+    "flag":"../mundial/assest/img/Uruguay.png",
+    "isHeadOfSeries": false,
+    "drum": 2,
+    "federetion": "Conmebol"
+  },
+  {
+    "country": "Korean Republic",
+    "flag":"../mundial/assest/img/Korea.png",
+    "isHeadOfSeries": false,
+    "drum": 3,
+    "federetion": "Afc"
+  },
+  {
+    "country": "Euro Play-off",
+    "flag":"../mundial/assest/img/Europan.png",
+    "isHeadOfSeries": false,
+    "drum": 4
+  },
+  {
+    "country": "IC Play-off 1",
+    "flag":"../mundial/assest/img/Europan.png",
+    "isHeadOfSeries": false,
+    "drum": 4
+  },
+  {
+    "country": "IC Play-off 2",
+    "flag":"../mundial/assest/img/Europan.png",
+    "isHeadOfSeries": false,
+    "drum": 4
+  }
+]
+}
